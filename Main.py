@@ -1,4 +1,3 @@
-cock
 
 # Main
 # Testprogram git
